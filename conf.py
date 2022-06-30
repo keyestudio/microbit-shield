@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'microbit shield'
+project = 'microbit_shield'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
