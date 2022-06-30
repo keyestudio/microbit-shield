@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 5
-   :caption: microbit shield
+   :caption:  microbit shield
 
    KS0291.md
    KS0292.md
